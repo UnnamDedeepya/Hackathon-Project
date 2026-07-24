@@ -1,0 +1,21 @@
+2026-07-24 15:05:01 INFO  SignInSteps - Continuing from current page
+2026-07-24 15:05:04 INFO  HomePage - City selected: Pune
+2026-07-24 15:05:04 INFO  SportsSteps - City selected: Pune
+2026-07-24 15:05:05 INFO  HomePage - Navigated to Events
+2026-07-24 15:05:05 INFO  SportsSteps - Navigated to Events section
+2026-07-24 15:05:07 INFO  SportsPage - Sports filter applied for this weekend
+2026-07-24 15:05:07 INFO  SportsSteps - Weekend sports filter applied
+2026-07-24 15:05:10 INFO  SportsPage - Scraped 4 events.
+2026-07-24 15:05:10 INFO  SportsSteps - Sports events sorted by lowest price:
+2026-07-24 15:05:10 INFO  SportsSteps - Shakti by GGC - ₹399 onwards
+2026-07-24 15:05:10 INFO  SportsSteps - Ugly Lantern Street Party At Izipizi Street - ₹1295
+2026-07-24 15:05:10 INFO  SportsSteps - Sonu Nigam - The Revolution India Tour | Pune - ₹1499 onwards
+2026-07-24 15:05:10 INFO  SportsSteps - District Play Tour | Pickleball | Pune Edition - ₹1500 onwards
+2026-07-24 15:05:10 INFO  SportsSteps - Total events: 4
+2026-07-24 15:05:14 INFO  SignInSteps - Continuing from current page
+2026-07-24 15:05:16 INFO  HomePage - Navigated to Movies
+2026-07-24 15:05:17 INFO  MoviesPage - Languages found: 7
+2026-07-24 15:05:21 INFO  SignInSteps - Continuing from current page
+2026-07-24 15:05:22 INFO  LoginPage - Mobile sign-in modal is open
+2026-07-24 15:05:22 INFO  SignInSteps - Entered invalid mobile: 1234567890
+2026-07-24 15:05:22 INFO  SignInSteps - Captured error message: "Please enter a valid mobile number."
