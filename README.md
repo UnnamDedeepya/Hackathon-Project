@@ -1,4 +1,4 @@
-# Final Hackathon Project - E-Commerce & Entertainment Automation Framework
+# Final Hackathon Project - E-Commerce & Automation Framework
 
 This repository houses the final training capstone project, transitioning from hybrid automation structures to an advanced, industry-standard **Behavior-Driven Development (BDD)** test framework. The framework is engineered using **Selenium WebDriver**, **Cucumber JVM**, and **TestNG** to address multi-page functional flows over complex web ecosystems like **District** (https://www.district.in/).
 
